@@ -1,6 +1,5 @@
 - Hi, I’m @Sofian-Khan
-- I’m interested in software development 
-- I’m currently learning data structures and algorithms 
+- I’m working in software development 
 - I’m looking to collaborate on projects
 - How to reach me naifosnahk@gmail.com
 
